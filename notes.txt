@@ -111,3 +111,10 @@ pip install httpx pytest
 Create the GitHub actions
 
 Push the project to github
+Commands:
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/VedikaSri/MlOps.git
+git push -u origin main
